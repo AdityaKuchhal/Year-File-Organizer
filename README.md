@@ -100,10 +100,10 @@ To create an executable file using **PyInstaller**, follow these steps:
 
 ## Screenshots
 
-![Main Interface](path-to-screenshot-main.png)
+![Main Interface](c:\Users\adity\Downloads\1.jpg)
 _The clean and simple main interface of the application._
 
-![History View](path-to-screenshot-history.png)
+![History View](c:\Users\adity\Downloads\2.jpg)
 _The history window displaying previously organized folders._
 
 ---
